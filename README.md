@@ -58,21 +58,6 @@ I enjoy building robust APIs, modern UIs, and interactive games using C#, C++, G
 
 ## 🌟 Featured Projects
 
-### 📦 OpenLMS
-A modern, cross-platform **Local Management System** (LMS) built with .NET 8, featuring a complete backend API, web interface, and mobile/desktop applications for managing local resources, users, files, communications, and scheduling within a local network or organization.
-- **Tech:** .NET 8, Blazor, MAUI, Avalonia, PostgreSQL, SignalR
-- **Features:** User/group management, real-time chat, file management, scheduling, notifications, analytics, video integration
-
-### 💬 LocalShare
-A secure, scalable collaboration platform for teams—think Slack, Microsoft Teams, or Discord, but self-hosted and privacy-focused.
-- **Tech:** Node.js, Express, TypeScript, React, PostgreSQL, Redis, Docker
-- **Features:** Real-time chat, file sharing, event calendar, analytics, offline mode, audit logging, strong security
-
-### 👥 LocalTeamSystem
-A modern, self-hosted team collaboration platform providing real-time messaging, file management, group collaboration, calendar/scheduling, analytics, and comprehensive team management features.
-- **Tech:** React, Express.js, PostgreSQL, Docker, Kubernetes
-- **Features:** JWT auth, group management, real-time messaging, file management, analytics, calendar, notifications
-
 ### 🏠 RootLocal
 Self-hosted-first software for teams, tinkerers, and local ecosystems. Full control. Cross-platform. Offline-capable.
 - **Tech:** .NET 8, Node.js, React, Docker, Kubernetes
