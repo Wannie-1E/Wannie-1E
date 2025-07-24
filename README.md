@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduan-de-jager/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduan-de-jager/">
     <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="80" height="80" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0009-7104-635X" target="_blank">
+  <a href="https://orcid.org/0009-0009-7104-635X">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="80" height="80" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RootLocalOpen" target="_blank">
+  <a href="https://github.com/RootLocalOpen">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="80" height="80" style="border-radius: 50%;">
   </a>
 </p>
