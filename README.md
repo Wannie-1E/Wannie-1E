@@ -8,10 +8,28 @@
 </p>
 
 <p align="center">
-  <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="200" style="border-radius: 50%;"/>
-  <br/>
-  <em>LinkedIn</em>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/eduan-de-jager/" target="_blank">
+    <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="100" style="border-radius: 50%;"/>
+    <br/>
+    <em>LinkedIn</em>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- ORCID -->
+  <a href="https://orcid.org/0009-0009-7104-635X" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="100" style="border-radius: 50%;"/>
+    <br/>
+    <em>ORCID</em>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/RootLocalOpen" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100" style="border-radius: 50%;"/>
+    <br/>
+    <em>GitHub</em>
+  </a>
 </p>
+
 
 
 ---
