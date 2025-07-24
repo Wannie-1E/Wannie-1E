@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RootLocalOpen">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="80" height="80" style="border-radius: 50%;">
+    <img src="assets/G_BG_LOCAL.png" alt="GitHub" width="80" height="80" style="border-radius: 50%;">
   </a>
 </p>
 
