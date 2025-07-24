@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" Caption="LinkedIn" width="600"/>
+  <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="200" style="border-radius: 50%;"/>
+  <br/>
+  <em>LinkedIn</em>
 </p>
+
 
 ---
 
