@@ -1,6 +1,6 @@
 <!-- Profile README for Wannie-1E -->
 
-<h1 align="center">Hi, I'm Wannie 👋</h1>
+<h1 align="center">Hi, I'm Eduan 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Game Developer | DevOps Enthusiast | Lifelong Learner</b><br/>
