@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="600"/>
+  <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" Caption="LinkedIn" width="600"/>
 </p>
 
 ---
