@@ -8,27 +8,19 @@
 </p>
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/eduan-de-jager/" target="_blank">
-    <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="100" style="border-radius: 50%;"/>
-    <br/>
-    <em>LinkedIn</em>
+    <img src="assets/G_BG_LOCAL.png" alt="LinkedIn" width="80" height="80" style="border-radius: 50%;">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- ORCID -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-7104-635X" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="100" style="border-radius: 50%;"/>
-    <br/>
-    <em>ORCID</em>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="80" height="80" style="border-radius: 50%;">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RootLocalOpen" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100" style="border-radius: 50%;"/>
-    <br/>
-    <em>GitHub</em>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="80" height="80" style="border-radius: 50%;">
   </a>
 </p>
+
 
 
 
