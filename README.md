@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduan-de-jager/">
+  <a href="https://www.linkedin.com/in/eduan-de-jager-72756a297/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="80" height="80" style="border-radius: 50%;">
   </a>
   &nbsp;&nbsp;&nbsp;
