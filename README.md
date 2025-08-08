@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Eduan de Jager 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Game Developer | DevOps Enthusiast | Lifelong Learner</b><br/>
-  <i>Building robust apps, beautiful UIs, and interactive games across platforms.</i>
+  <b>Full-Stack Developer | Game Developer | DevOps Enthusiast | Embedded Systems Specialist | Lifelong Learner</b><br/>
+  <i>Building apps, UIs, games and embedded systems across platforms.</i>
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate and versatile developer with hands-on experience across a wide range of technologies and platforms. My work spans full-stack web development, cross-platform desktop and mobile apps, game development, and DevOps automation.
+I'm a passionate and versatile developer with hands-on experience across a wide range of technologies and platforms. My work spans full-stack web development, cross-platform desktop and mobile apps, game development, embedded systems, and DevOps automation.
 
-I enjoy building robust APIs, modern UIs, and interactive games using C#, C++, Godot, .NET (Blazor, MAUI, Avalonia), and web technologies. I thrive in collaborative environments and am always eager to tackle new challenges and contribute to open-source communities.
+I enjoy building robust APIs, modern UIs, interactive games, and embedded systems using C#, C++, C, Assembly (ARMv7/ARMv8/x86), Godot, .NET (Blazor, MAUI, Avalonia), Raspberry Pi/Pico, and web technologies. I thrive in collaborative environments and am always eager to tackle new challenges and contribute to open-source communities.
 
 ---
 
@@ -43,6 +43,10 @@ I enjoy building robust APIs, modern UIs, and interactive games using C#, C++, G
   <img src="https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Avalonia-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -71,7 +75,7 @@ Self-hosted-first software for teams, tinkerers, and local ecosystems. Full cont
 > - **Offline-friendly** and fast
 > - **Modular** and hackable
 > - **Respectful of user privacy**
-> - **Accessible across devices**: desktop, mobile, web
+> - **Accessible across devices**: desktop, mobile, web, embedded
 > - **Open source and community-driven**
 
 ---
