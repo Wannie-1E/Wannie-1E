@@ -9,19 +9,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduan-de-jager-72756a297/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="80" height="80" style="border-radius: 50%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" style="border-radius:50%;">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-7104-635X">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="80" height="80" style="border-radius: 50%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="60" height="60" style="border-radius:50%;">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RootLocalOpen">
-    <img src="assets/G_BG_LOCAL.png" alt="GitHub" width="80" height="80" style="border-radius: 50%;">
+  &nbsp;&nbsp;
+  <a href="https://github.com/Wannie-1E">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" style="border-radius:50%;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://eduandejager.pages.dev/">
+    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" alt="Website" width="60" height="60" style="border-radius:50%;">
   </a>
 </p>
-
-
 
 
 ---
