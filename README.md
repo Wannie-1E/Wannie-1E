@@ -1,6 +1,6 @@
 <!-- Profile README for Wannie-1E -->
 
-<h1 align="center">Hi, I'm Eduan de Jager 👋</h1>
+<h1 align="center">Hi, I'm Eduan de Jager <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/hand-thumbs-up.svg" width="30"/></h1>
 
 <p align="center">
   <b>Full-Stack Developer | Game Developer | DevOps & Embedded Systems Specialist | Lifelong Learner</b><br/>
@@ -9,34 +9,34 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduan-de-jager-72756a297/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="80" height="80" style="border-radius:50%;">
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/linkedin.svg" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-7104-635X">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="80" height="80" style="border-radius:50%;">
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/person-badge.svg" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RootLocalOpen">
-    <img src="assets/G_BG_LOCAL.png" alt="GitHub" width="80" height="80" style="border-radius:50%;">
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/github.svg" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://eduandejager.pages.dev/">
-    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" alt="Website" width="80" height="80" style="border-radius:50%;">
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/globe.svg" width="50"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/rocket.svg" width="25"/> About Me
 
 I'm **Eduan de Jager**, a Computer Science student (BSc, Eduvos • 2024–2026) with a passion for **software, embedded systems, and sound engineering**.  
 
 I enjoy building clean, robust software, experimenting with embedded systems and automation, and designing tools that are **offline-friendly, modular, privacy-respecting, and open source**.  
 
-💻 I develop with **C#, C++, C, and Assembly (ARMv7/ARMv8/x86)** and frameworks like **.NET (Blazor, MAUI, Avalonia), Node.js, Express, React, Vite, Tailwind, and Godot**.  
-📱 On mobile, I use **Expo & React Native**, while on embedded systems I work with **Raspberry Pi & Raspberry Pi Pico**.  
-🛠 My DevOps toolkit includes **Docker, Kubernetes, Helm, GitHub Actions**, plus CI/CD, testing, linting, and automation.  
-🎵 Outside coding, I have professional experience as a **sound engineer**, managing **live audio production, AV setups, and event logistics**, which sharpened my attention to detail and adaptability.  
+- 💻 Develop with **C#, C++, C, and Assembly (ARMv7/ARMv8/x86)**  
+- 📱 Work with **.NET (Blazor, MAUI, Avalonia), Node.js, Express, React, Vite, Tailwind, Godot**  
+- 🛠 Use **Docker, Kubernetes, Helm, GitHub Actions** for CI/CD & DevOps  
+- 🎵 Sound engineer experience in **live audio, AV setups, and event logistics**  
 
 🌐 **Website:** [eduandejager.pages.dev](https://eduandejager.pages.dev/)  
 💼 **LinkedIn:** [Eduan de Jager](https://www.linkedin.com/in/eduan-de-jager-72756a297/)  
@@ -45,61 +45,58 @@ I enjoy building clean, robust software, experimenting with embedded systems and
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/tools.svg" width="25"/> Tech Stack
 
-### 🔹 Programming & Languages
-C# • C++ • C • Java • Python • TypeScript • JavaScript • Bash • PowerShell • Assembly (ARMv7, ARMv8, x86)
-
-### 🔹 Software Development & Architecture
-OOP • Design Patterns • UI/UX • Component-Based Design • Agile • Scrum • Debugging • Documentation • Git • Unit/Integration Testing  
+### 🔹 Languages
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/code-slash.svg" width="20"/> C# • C++ • C • Java • Python • TypeScript • JavaScript • Bash • PowerShell • Assembly (ARMv7, ARMv8, x86)
 
 ### 🔹 Web & Cross-Platform
-.NET • ASP.NET Core • Blazor • Razor • MAUI • Avalonia UI • XAML • Node.js • Express • React • Vite • Expo • React Native • Tailwind CSS • Bootstrap • HTML/CSS  
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/laptop.svg" width="20"/> .NET • ASP.NET Core • Blazor • MAUI • Avalonia • Node.js • Express • React • React Native • Tailwind CSS • Vite • Bootstrap • HTML/CSS  
 
-### 🔹 Embedded Systems & Robotics
-Embedded C • ARM Cortex-M • Raspberry Pi • Raspberry Pi Pico • Sensors • Automation • Linux CLI • Shell Scripting  
+### 🔹 Embedded & Robotics
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/cpu.svg" width="20"/> Raspberry Pi • Pico • Embedded C • ARM Cortex-M • Sensors • Automation • Linux CLI  
 
-### 🔹 Cloud, DevOps & Infrastructure
-AWS (EC2, S3, RDS, IAM, VPC) • Docker • Kubernetes • Helm • CI/CD • GitHub Actions • Jest • ESLint • Prettier  
+### 🔹 Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/cloud.svg" width="20"/> AWS (EC2, S3, RDS, IAM, VPC) • Docker • Kubernetes • Helm • GitHub Actions • Jest • ESLint • Prettier  
 
-### 🔹 Databases & Data
-SQL Server • PostgreSQL • SQLite • Oracle • MongoDB • Redis • Neo4j • Entity Framework (Core) • LINQ • Schema Design • Data Modeling  
+### 🔹 Databases
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/database.svg" width="20"/> SQL Server • PostgreSQL • SQLite • Oracle • MongoDB • Redis • Neo4j • EF Core  
 
-### 🔹 AI & Machine Learning
-Machine Learning • Deep Learning • Reinforcement Learning • NLP • Computer Vision • Robotics Integration • Responsible AI • Prompt Engineering  
+### 🔹 AI & ML
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/robot.svg" width="20"/> Machine Learning • Deep Learning • NLP • Computer Vision • Reinforcement Learning  
 
 ### 🔹 Game Development
-Unity • Unreal Engine • Godot • Game Physics • Game Scripting • Procedural Generation • Level Design  
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/controller.svg" width="20"/> Unity • Unreal Engine • Godot • Game Physics • Procedural Generation • Level Design  
 
 ### 🔹 Audio & Event Engineering
-Live Sound • Audio Mixing • AV Setup • Event Logistics  
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/music-note-beamed.svg" width="20"/> Live Sound • Audio Mixing • AV Setup • Event Logistics  
 
 ---
 
-## 🌟 Featured Projects
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/star.svg" width="25"/> Featured Projects
 
 ### 🏠 RootLocal
-Self-hosted-first software for teams, tinkerers, and local ecosystems. Full control. Cross-platform. Offline-capable.  
+Self-hosted-first software for teams, tinkerers, and local ecosystems.  
 - **Tech:** .NET 8, Node.js, React, Docker, Kubernetes  
-- **Philosophy:** Offline-friendly, modular, privacy-respecting, accessible across devices  
+- **Philosophy:** Offline-friendly • Modular • Privacy-respecting • Cross-platform  
 
 ### 🎮 Godot Projects
-Interactive games and simulations using **Godot & C#**, with gameplay logic and procedural design.  
+Interactive games & simulations with **Godot + C#**, including gameplay systems and procedural content.  
 
 ---
 
-## 🧭 Philosophy
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/compass.svg" width="25"/> Philosophy  
 
 > I believe in building tools that are:  
-> - **Offline-friendly** and fast  
-> - **Modular** and hackable  
-> - **Respectful of user privacy**  
-> - **Accessible across devices**  
-> - **Open source and community-driven**  
+> - Offline-first ⚡  
+> - Modular 🧩  
+> - Privacy-respecting 🔒  
+> - Cross-device 🌍  
+> - Open source 🤝  
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/bar-chart-line.svg" width="25"/> GitHub Stats  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wannie-1E&show_icons=true&count_private=true&theme=radical"/>
@@ -109,5 +106,5 @@ Interactive games and simulations using **Godot & C#**, with gameplay logic and 
 ---
 
 <p align="center">
-  <i>Thanks for visiting! 🚀</i>
+  <i>Thanks for visiting! <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/rocket-takeoff.svg" width="20"/></i>
 </p>
