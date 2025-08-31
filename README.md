@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduan-de-jager-72756a297/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" style="border-radius:50%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="80" height="80" style="border-radius:50%;">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-7104-635X">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="60" height="60" style="border-radius:50%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="80" height="80" style="border-radius:50%;">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Wannie-1E">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" style="border-radius:50%;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RootLocalOpen">
+    <img src="assets/G_BG_LOCAL.png" alt="GitHub" width="80" height="80" style="border-radius:50%;">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://eduandejager.pages.dev/">
-    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" alt="Website" width="60" height="60" style="border-radius:50%;">
+    <img src="https://github.com/Wannie-1E" alt="Website" width="80" height="80" style="border-radius:50%;">
   </a>
 </p>
 
@@ -29,14 +29,13 @@
 
 ## 🚀 About Me
 
-I'm Eduan de Jager, a Computer Science student passionate about building clean, robust software and experimenting with embedded systems, automation, and game development.  
+I'm a passionate and versatile developer with hands-on experience across a wide range of technologies and platforms. My work spans full-stack web development, cross-platform desktop and mobile apps, game development, embedded systems, and DevOps automation.  
 
-I thrive in collaborative environments and enjoy taking on challenges across full-stack web development, cross-platform desktop/mobile apps, embedded systems, DevOps, and sound engineering.
+I enjoy building robust APIs, modern UIs, interactive games, and embedded systems using C#, C++, C, Assembly (ARMv7/ARMv8/x86), Godot, .NET (Blazor, MAUI, Avalonia), Raspberry Pi/Pico, and web technologies.  
+
+Beyond coding, I have experience in sound engineering, live events, and learning about sensors, kinematics, and electronics. I thrive in collaborative environments and am eager to contribute to impactful projects.  
 
 🌐 **Website:** [eduandejager.pages.dev](https://eduandejager.pages.dev/)  
-💼 **LinkedIn:** [Eduan de Jager](https://www.linkedin.com/in/eduan-de-jager-72756a297/)  
-💻 **GitHub:** [Wannie-1E](https://github.com/Wannie-1E)  
-📧 **Email:** contact@rootlocal.dev  
 
 ---
 
@@ -73,9 +72,6 @@ Self-hosted-first software for teams, tinkerers, and local ecosystems. Full cont
 - **Tech:** .NET 8, Node.js, React, Docker, Kubernetes  
 - **Philosophy:** Offline-friendly, modular, privacy-respecting, accessible across devices  
 
-### 🎮 Godot Projects
-Interactive games and simulations using Godot and C# for gameplay logic.  
-
 ---
 
 ## 🧭 Philosophy
@@ -84,7 +80,7 @@ Interactive games and simulations using Godot and C# for gameplay logic.
 > - **Offline-friendly** and fast  
 > - **Modular** and hackable  
 > - **Respectful of user privacy**  
-> - **Accessible across devices**: desktop, mobile, web, embedded  
+> - **Accessible across devices**  
 > - **Open source and community-driven**  
 
 ---
