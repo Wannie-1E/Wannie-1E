@@ -1,121 +1,117 @@
 <!-- Profile README for Wannie-1E -->
 
-<h1 align="center">
-  Hi, I'm Eduan de Jager
-  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="#FF6F00" class="bi bi-rocket" viewBox="0 0 16 16">
-    <path d="M8.5 1.018a7 7 0 0 0-7 7A6.98 6.98 0 0 0 4 13.93V16l3.122-1.561c.46.09.934.138 1.41.138a7 7 0 0 0 0-14Z"/>
+<h1 align="center">Hi, I'm Eduan de Jager
+  <!-- Hand wave SVG -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#FF6F00" viewBox="0 0 512 512">
+    <path d="M256 0C114.616 0 0 114.617 0 256s114.616 256 256 256 256-114.617 256-256S397.384 0 256 0zm0 482C132.288 482 30 379.712 30 256S132.288 30 256 30s226 102.288 226 226-102.288 226-226 226z"/>
+    <path d="M347 172c-12-16-30-28-50-28-19 0-37 10-48 24l-52 72 68 88 74-104c8-12 4-28-8-36z"/>
   </svg>
 </h1>
 
 <p align="center">
-  <b>Full-Stack Developer • Embedded Systems • Game Dev • DevOps</b><br/>
-  <i>Building apps, UIs, games & embedded systems across platforms</i>
+  <b>Full-Stack Developer | Game Developer | DevOps Enthusiast | Embedded Systems Specialist | Lifelong Learner</b><br/>
+  <i>Building apps, UIs, games and embedded systems across platforms.</i>
 </p>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/eduan-de-jager-72756a297/">
-    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="#0A66C2" class="bi bi-linkedin" viewBox="0 0 16 16">
-      <path d="M0 1.146C0 .513.324 0 .725 0h14.55C15.676 0 16 .513 16 1.146v13.708c0 .633-.324 1.146-.725 1.146H.725A.723.723 0 0 1 0 14.854V1.146Zm4.943 12.248V6.169H2.542v7.225h2.401Zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.358.54-1.358 1.248 0 .694.52 1.248 1.327 1.248h.015ZM13.458 13.394V9.359c0-2.164-1.154-3.172-2.695-3.172-1.24 0-1.793.681-2.104 1.162V6.169H6.258c.03.646 0 7.225 0 7.225h2.401V9.47c0-.209.015-.418.077-.568.168-.418.55-.852 1.19-.852.84 0 1.179.642 1.179 1.583v3.761h2.353Z"/>
-    </svg>
+  <a href="https://www.linkedin.com/in/eduan-de-jager-72756a297/" target="_blank">
+    <!-- LinkedIn SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="#0A66C2"><path d="M22.225 0H1.771C.792 0 0 .774 0 1.728v20.544C0 23.226.792 24 1.771 24h20.451C23.2 24 24 23.226 24 22.272V1.728C24 .774 23.2 0 22.225 0zM7.118 20.452H3.558V9h3.56v11.452zM5.338 7.433c-1.137 0-2.056-.92-2.056-2.055 0-1.134.919-2.054 2.056-2.054 1.136 0 2.055.92 2.055 2.054 0 1.135-.919 2.055-2.055 2.055zM20.452 20.452h-3.555v-5.568c0-1.327-.027-3.033-1.847-3.033-1.848 0-2.132 1.445-2.132 2.937v5.664h-3.555V9h3.414v1.561h.049c.476-.9 1.637-1.847 3.368-1.847 3.602 0 4.268 2.371 4.268 5.455v6.283z"/></svg>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- ORCID -->
-  <a href="https://orcid.org/0009-0009-7104-635X">
-    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="#A6CE39" class="bi bi-mortarboard" viewBox="0 0 16 16">
-      <path d="M8.211.5a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 0 .9l7.5 3.5a.5.5 0 0 0 .422 0L15.5 4.9a.5.5 0 0 0 0-.9L8.211.5Z"/>
-      <path d="M2.5 7.5v3.086a1.5 1.5 0 0 0 .879 1.342l4.0 2a1.5 1.5 0 0 0 1.342 0l4-2A1.5 1.5 0 0 0 13.5 10.586V7.5"/>
-    </svg>
+  <a href="https://orcid.org/0009-0009-7104-635X" target="_blank">
+    <!-- ORCID SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 256 256" fill="#A6CE39"><path d="M128 0C57.31 0 0 57.31 0 128s57.31 128 128 128 128-57.31 128-128S198.69 0 128 0zm0 230c-56.228 0-102-45.772-102-102S71.772 26 128 26s102 45.772 102 102-45.772 102-102 102z"/><circle cx="128" cy="128" r="76"/></svg>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/RootLocalOpen">
-    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="#181717" class="bi bi-github" viewBox="0 0 16 16">
-      <path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38v-1.33c-2.23.49-2.7-1.07-2.7-1.07-.36-.91-.89-1.15-.89-1.15-.73-.5.06-.49.06-.49.81.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.65-.89-3.65-3.95 0-.87.31-1.58.82-2.14-.08-.2-.36-1.01.08-2.12 0 0 .67-.21 2.2.82a7.72 7.72 0 0 1 4.01 0c1.53-1.03 2.2-.82 2.2-.82.44 1.11.16 1.92.08 2.12.51.56.82 1.27.82 2.14 0 3.07-1.88 3.75-3.67 3.95.29.25.54.73.54 1.48v2.19c0 .21.15.45.55.38A8 8 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/>
-    </svg>
+  <a href="https://github.com/RootLocalOpen" target="_blank">
+    <!-- GitHub SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="#181717"><path d="M12 .296c-6.627 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.387.6.111.82-.261.82-.58 0-.287-.011-1.244-.017-2.25-3.338.724-4.042-1.612-4.042-1.612-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.084-.729.084-.729 1.205.084 1.839 1.236 1.839 1.236 1.07 1.834 2.809 1.304 3.495.997.108-.774.418-1.305.762-1.605-2.665-.303-5.467-1.332-5.467-5.933 0-1.31.468-2.381 1.236-3.221-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.3 1.23a11.53 11.53 0 013.003-.403 11.52 11.52 0 013.003.403c2.289-1.552 3.294-1.23 3.294-1.23.655 1.653.243 2.873.12 3.176.77.84 1.235 1.911 1.235 3.221 0 4.61-2.807 5.625-5.479 5.921.43.371.813 1.103.813 2.222 0 1.604-.015 2.896-.015 3.287 0 .322.216.696.825.578C20.565 22.092 24 17.592 24 12.296c0-6.627-5.373-12-12-12z"/></svg>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Personal Site -->
-  <a href="https://eduandejager.pages.dev/">
-    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="#4285F4" class="bi bi-globe" viewBox="0 0 16 16">
-      <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-7a7 7 0 0 0 0 14V1Z"/>
-    </svg>
+  <a href="https://eduandejager.pages.dev" target="_blank">
+    <!-- Globe / Website SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="#0d6efd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/><path d="M12 4a8 8 0 0 0 0 16V4z"/></svg>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
-Computer Science student (**BSc, Eduvos 2024–2026**) with a passion for **software, embedded systems, and sound engineering**.  
+🚀 About Me
 
-I build clean, offline-first, privacy-respecting systems — from **apps and UIs** to **games and robotics**.  
+I'm a passionate and versatile developer with hands-on experience across a wide range of technologies and platforms. My work spans full-stack web development, cross-platform desktop and mobile apps, game development, embedded systems and DevOps automation.
 
----
-
-## 🛠️ Tech Stack  
-
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>C# • C++ • C • Java • Python • TypeScript • JavaScript • Bash • PowerShell • Assembly</td>
-</tr>
-<tr>
-<td><b>Web & Cross-Platform</b></td>
-<td>.NET • ASP.NET Core • Blazor • MAUI • Avalonia • Node.js • React • Tailwind • Vite • Bootstrap</td>
-</tr>
-<tr>
-<td><b>Embedded & Robotics</b></td>
-<td>Raspberry Pi • Pico • Embedded C • ARM Cortex-M • Sensors • Automation • Linux CLI</td>
-</tr>
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>AWS • Docker • Kubernetes • Helm • GitHub Actions • CI/CD • Jest • ESLint</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>SQL Server • PostgreSQL • SQLite • Oracle • MongoDB • Redis • Neo4j • EF Core</td>
-</tr>
-<tr>
-<td><b>AI & ML</b></td>
-<td>ML • Deep Learning • NLP • Computer Vision • Reinforcement Learning</td>
-</tr>
-<tr>
-<td><b>Game Development</b></td>
-<td>Unity • Unreal • Godot • Game Physics • Procedural Generation</td>
-</tr>
-<tr>
-<td><b>Audio & Events</b></td>
-<td>Live Sound • Audio Mixing • AV Setup • Event Logistics</td>
-</tr>
-</table>
+I enjoy building robust APIs, modern UIs, interactive games and embedded systems using C#, C++, C, Assembly (ARMv7/ARMv8/x86), Godot, .NET (Blazor, MAUI, Avalonia), Raspberry Pi/Pico and web technologies. I thrive in collaborative environments and am always eager to tackle new challenges and contribute to open-source communities.
 
 ---
 
-## 🌟 Featured Projects  
-
-### 🔹 RootLocal  
-Self-hosted-first software for teams, tinkerers & local ecosystems.  
-**Stack:** .NET 8, Node.js, React, Docker, Kubernetes  
-
-### 🔹 Godot Projects  
-Games & simulations with **Godot + C#**, including procedural content and gameplay systems.  
-
----
-
-## 💡 Philosophy  
-
-> I believe in tools that are:  
-> - Offline-first  
-> - Modular  
-> - Privacy-respecting  
-> - Cross-device  
-> - Open source  
-
----
-
-## 📊 GitHub Stats  
+🛠️ Tech Stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wannie-1E&show_icons=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wannie-1E&layout=compact&theme=radical"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Avalonia-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+🌟 Featured Projects
+
+🏠 RootLocal
+
+Self-hosted-first software for teams, tinkerers and local ecosystems. Full control. Cross-platform. Offline-capable.
+
+Tech: .NET 8, Node.js, React, Docker, Kubernetes
+
+Philosophy: Offline-friendly, modular, privacy-respecting, accessible across devices
+
+---
+
+🧭 Philosophy
+
+> I believe in building tools that are:
+
+Offline-friendly and fast
+
+Modular and hackable
+
+Respectful of user privacy
+
+Accessible across devices: desktop, mobile, web, embedded
+
+Open source and community-driven
+
+---
+
+📫 Get In Touch
+
+Email: contact@rootlocal.dev
+
+[More coming soon!]
+
+---
+
+<p align="center">
+  <i>Thanks for visiting!
+    <!-- Rocket SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#FF6F00" viewBox="0 0 16 16">
+      <path d="M6 0l1 5-5 1 4 4-1 5 5-4 4 1-4-4 1-5-5 4z"/>
+    </svg>
+  </i>
 </p>
