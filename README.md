@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-7104-635X">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/person-badge.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/mortarboard.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RootLocalOpen">
