@@ -21,7 +21,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://eduandejager.pages.dev/">
-    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" alt="Website" width="60" height="60" style="border-radius:50%;">
+    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Website" width="60" height="60" style="border-radius:50%;">
   </a>
 </p>
 
